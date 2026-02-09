@@ -1,7 +1,11 @@
 <Solution>
-  <Project Path="EnergyTrack.API/EnergyTrack.API.csproj" />
-  <Project Path="EnergyTrack.Application/EnergyTrack.Application.csproj" />
-  <Project Path="EnergyTrack.Domain/EnergyTrack.Domain.csproj" />
-  <Project Path="EnergyTrack.Infrastructure/EnergyTrack.Infrastructure.csproj" />
-  <Project Path="EnergyTrack.Tests/EnergyTrack.Tests.csproj" />
+  <Folder Name="/src/">
+    <Project Path="src/EnergyTrack.API/EnergyTrack.API.csproj" />
+    <Project Path="src/EnergyTrack.Application/EnergyTrack.Application.csproj" />
+    <Project Path="src/EnergyTrack.Domain/EnergyTrack.Domain.csproj" />
+    <Project Path="src/EnergyTrack.Infrastructure/EnergyTrack.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/EnergyTrack.Tests/EnergyTrack.Tests.csproj" />
+  </Folder>
 </Solution>

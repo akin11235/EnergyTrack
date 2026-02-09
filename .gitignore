@@ -1,0 +1,69 @@
+# Visual Studio temporary files, build results, and
+# user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+TestResults/
+*.nupkg
+*.snupkg
+
+# NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+# Rider / ReSharper files
+.idea/
+*.sln.iml
+_ReSharper*/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+*.dotCover
+
+# Azure DevOps / TFS
+$tf/
+
+# ASP.NET temporary files
+*.publishsettings
+*.cache
+*.vspscc
+
+# Entity Framework / Code First Migrations
+Migrations/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userprefs
+
+# Others
+*.dbmdl
+*.pdb
+*.pidb
+*.svclog
+*.dbproj.user
+*.dbproj.schemaview
+
+# Visual Studio Code
+.vscode/
+
+# Unity / other local folders (if applicable)
+Library/
+Temp/
