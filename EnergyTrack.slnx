@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="EnergyTrack.API/EnergyTrack.API.csproj" />
+  <Project Path="EnergyTrack.Application/EnergyTrack.Application.csproj" />
+  <Project Path="EnergyTrack.Domain/EnergyTrack.Domain.csproj" />
+  <Project Path="EnergyTrack.Infrastructure/EnergyTrack.Infrastructure.csproj" />
+  <Project Path="EnergyTrack.Tests/EnergyTrack.Tests.csproj" />
+</Solution>
