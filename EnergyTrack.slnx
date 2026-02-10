@@ -1,9 +1,16 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="project-process.md" />
+    <File Path="User-Story-1.md" />
+  </Folder>
   <Folder Name="/src/">
     <Project Path="src/EnergyTrack.API/EnergyTrack.API.csproj" />
-    <Project Path="src/EnergyTrack.Application/EnergyTrack.Application.csproj" />
-    <Project Path="src/EnergyTrack.Domain/EnergyTrack.Domain.csproj" />
     <Project Path="src/EnergyTrack.Infrastructure/EnergyTrack.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Core/">
+    <Project Path="src/Core/EnergyTrack.Application/EnergyTrack.Application.csproj" />
+    <Project Path="src/Core/EnergyTrack.Domain/EnergyTrack.Domain.csproj" />
   </Folder>
   <Folder Name="/tests/">
     <Project Path="tests/EnergyTrack.Tests/EnergyTrack.Tests.csproj" />

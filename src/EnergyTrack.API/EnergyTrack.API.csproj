@@ -11,8 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EnergyTrack.Application\EnergyTrack.Application.csproj" />
-    <ProjectReference Include="..\EnergyTrack.Domain\EnergyTrack.Domain.csproj" />
+    <ProjectReference Include="..\Core\EnergyTrack.Application\EnergyTrack.Application.csproj" />
+    <ProjectReference Include="..\Core\EnergyTrack.Domain\EnergyTrack.Domain.csproj" />
     <ProjectReference Include="..\EnergyTrack.Infrastructure\EnergyTrack.Infrastructure.csproj" />
   </ItemGroup>
 

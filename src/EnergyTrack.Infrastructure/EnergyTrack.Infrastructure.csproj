@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\EnergyTrack.Domain\EnergyTrack.Domain.csproj" />
+    <ProjectReference Include="..\Core\EnergyTrack.Domain\EnergyTrack.Domain.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
