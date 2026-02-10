@@ -67,3 +67,6 @@ Migrations/
 # Unity / other local folders (if applicable)
 Library/
 Temp/
+# Build results
+bin/
+obj/
